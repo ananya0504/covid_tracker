@@ -32,6 +32,13 @@ Here are some screenshots of my work -
 <p>
   <img src='screenshots/search_page.jpeg' width = '30%'>
   <img src= 'screenshots/faq_page.jpeg' width = '30%'>
+  <img src='screenshots/main_page_darkMode1.jpeg' width = '30%'>
+</p>
+
+<p>
+  <img src='screenshots/main_page_darkMode2.jpeg' width = '30%'>
+  <img src= 'screenshots/search_page_darkMode.jpeg' width = '30%' >
+  <img src ='screenshots/regional_page_darkMode.jpeg' width = '30%'>
 </p>
 
 
