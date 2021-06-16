@@ -12,7 +12,7 @@ Welcome to **Covid_Tracker** project.
 
 ## My motivation
 
-I created this app to understand the working of API's in Flutter.
+I created this app to understand the working of API's in Flutter and implemented dark mode feature too.
 
 ## Technology/ Stack used
 
@@ -37,8 +37,8 @@ Here are some screenshots of my work -
 
 <p>
   <img src='screenshots/main_page_darkMode2.jpeg' width = '30%'>
-  <img src= 'screenshots/search_page_darkMode.jpeg' width = '30%' >
-  <img src ='screenshots/regional_page_darkMode.jpeg' width = '30%'>
+  <img src= 'screenshots/regional_page_darkMode.jpeg' width = '30%' >
+  <img src ='screenshots/faq_page_darkMode.jpeg' width = '30%'>
 </p>
 
 
